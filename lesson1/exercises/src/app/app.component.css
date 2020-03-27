@@ -1,0 +1,8 @@
+.col-3 {
+    border-right: 6px dashed black;
+    height: 875px;
+}
+
+.container {
+    background-color: lightblue;
+}
